@@ -1,2 +1,2 @@
-# BME66_Website
+# Carlos Lopez Rodriguez
 # Web
